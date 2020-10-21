@@ -1,7 +1,7 @@
 ---
 title: "Analysis of the mtcars Dataset"
-author: "Amrit Juneja"
-date: "13.10.2019"
+author: "S.Monesh"
+date: "21.10.2020"
 output:
   html_document:
     number_sections: yes
@@ -16,17 +16,6 @@ widgets: bootstrap
 ---
 
 ## Coursera Reproducible Pitch
-
-### See the Regression Models Course Project  
-
-- URL: *https://github.com/amritj/Developing-Data-Products-Week-4-Assignment*
-- Find here all the data that have been use for this presentation and also for the first part of the data Science Project: "First, you will create a Shiny application and deploy it on Rstudio's servers.Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application."
-
-### Find all details here
-URL: *https://www.coursera.org/learn/data-products/peer/tMYrn/course-project-shiny-application-and-reproducible-pitch*
-
----
-
 ## mtcars Dataset
 
 ### Motor Trend Car Road Tests
